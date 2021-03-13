@@ -1,4 +1,4 @@
-# web_resources
+# Web Resources (Images, CSS, Javascript, SVGs)
 A Repo Containing Files/Resources needed for Web Dev
 
 ### Reason
