@@ -1,0 +1,1 @@
+#### GuardDuty Logo files
